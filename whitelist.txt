@@ -74,10 +74,10 @@ Skype :
 pihole -w web.skype.com uhf.microsoft.com config.edge.skype.com csp.microsoft.com a.login.skype.com api.asm.skype.com api.aps.skype.com msgsearch.skype.com a.config.skype.com options.skype.com people.skype.com api.promotions.skype.com consumer.entitlement.skype.com inviteconnector.skype.com api3.cc.skype.com api.flightproxy.skype.com
 
 Twitter :
-t.co video.twimg.com
+pihole -w t.co video.twimg.com
 
 Duolingo :
-d35aaqx5ub95lt.cloudfront.net
+pihole -w d35aaqx5ub95lt.cloudfront.net
 
 Miscellaneous :
-pihole -w ocsp.digicert.com www.returnyoutubedislike.com skylines.paradoxwikis.com download.visualstudio.microsoft.com dictionary.cambridge.org ota.lokalise.co www.att.com coinmarketcap.com api.fotmob.com blog.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com pihole -w www.jio.com jio.com cdn.optimizely.com status.lineageos.org
+pihole -w ocsp.digicert.com www.returnyoutubedislike.com skylines.paradoxwikis.com download.visualstudio.microsoft.com dictionary.cambridge.org ota.lokalise.co www.att.com coinmarketcap.com api.fotmob.com blog.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com www.jio.com jio.com cdn.optimizely.com status.lineageos.org
