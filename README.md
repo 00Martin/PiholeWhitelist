@@ -1,6 +1,6 @@
-# Pihole Whitelist
+# Pi-hole Whitelist
 This repository contains a list of domains you might want to allow after adding your block lists.
-The domains are already formatted into a command, ready to be applied to your Pihole.
+The domains are already formatted into a command, ready to be applied to your Pi-hole.
 
 I will never knowingly add advertising or tracking domains and I always do my best to test the domains to make sure they're actually necessary or useful.
 Unfortunatly that doesn't rule out the possiblity that a domain is tracking you while providing you a useful service. If it's really important to you, you can always hand pick the services or domains you want to add.
