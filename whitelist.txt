@@ -1,3 +1,5 @@
+#Formatted for Pi-hole
+
 Wildcard (all subdomains) whitelists, add through the graphical interface.
 
 playstation.com
