@@ -9,3 +9,5 @@ I'm fine with receiving suggestions/requests, but I ultimately decide if I add o
 
 *At the exception of Brave Rewards from Brave Browser. It's open source, built around privacy, provides legitimate value, and can be fully disabled.
 **At the exception of telemetry for PlayStation and Xbox. Personal data is stored in your service account (PSN/Live) anyway, and in the case of PlayStation if telemetry is blocked the console won't upload information like your game time, or game sessions (used for PS stars).
+
+Trademarks go to their respective owners, I am not affiliated with any of the brands, domains or companies listed.
