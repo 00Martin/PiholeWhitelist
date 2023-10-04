@@ -64,7 +64,7 @@ Brave Browser :
 pihole -w grant.rewards.brave.com api.rewards.brave.com rewards.brave.com variations.brave.com sync-v2.brave.com static.ads.brave.com go-updater.brave.com geo.ads.brave.com componentupdater.brave.com brave-core-ext.s3.brave.com mywallet.ads.brave.com brave-today-cdn.brave.com pcdn.brave.com anonymous.ads.brave.com star-randsrv.bsg.brave.com
 
 Microsoft :
-pihole -w www.microsoft.com img-prod-cms-rt-microsoft-com.akamaized.net c.s-microsoft.com c.microsoft.com mem.gfx.ms ajax.aspnetcdn.com vlscppe.microsoft.com
+pihole -w www.microsoft.com img-prod-cms-rt-microsoft-com.akamaized.net c.s-microsoft.com c.microsoft.com mem.gfx.ms ajax.aspnetcdn.com vlscppe.microsoft.com download.visualstudio.microsoft.com
 
 Office 365 :
 pihole -w login.live.com logincdn.msftauth.net r4.res.office365.com privacynotice.account.microsoft.com ucis.msdxcdn.microsoft.com res-h3.public.cdn.office.net login.mso.msidentity.com outlook.office365.com outlook.office.com aadcdn.msftauth.net
@@ -102,5 +102,11 @@ pihole -w ocsp.digicert.com ocsp.edge.digicert.com fp2e7a.wpc.phicdn.net
 Images & wallpapers :
 pihole -w js.media-lab.ai ibb.co i.ibb.co wallpapers.com wallpapercave.com
 
+Miscellaneous Gaming :
+pihole -w id.supercell.com cdn.id.supercell.com skylines.paradoxwikis.com
+
+Miscellaneous Finances :
+pihole -w coinmarketcap.com www.investopedia.com www.thebalancemoney.com
+
 Miscellaneous :
-pihole -w www.returnyoutubedislike.com skylines.paradoxwikis.com download.visualstudio.microsoft.com dictionary.cambridge.org ota.lokalise.co www.att.com coinmarketcap.com api.fotmob.com blog.ecosia.org api.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com www.jio.com jio.com cdn.optimizely.com status.lineageos.org id.supercell.com cdn.id.supercell.com www.investopedia.com www.thebalancemoney.com images.prismic.io www.phaver.com ciscobinary.openh264.org
+pihole -w www.returnyoutubedislike.com dictionary.cambridge.org ota.lokalise.co www.att.com api.fotmob.com blog.ecosia.org api.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com www.jio.com jio.com cdn.optimizely.com status.lineageos.org images.prismic.io www.phaver.com ciscobinary.openh264.org
