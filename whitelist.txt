@@ -39,7 +39,7 @@ pihole -w wired.com www.wired.com www.lifewire.com www.theverge.com m.leparisien
 Blizzard Activision (Battle.net, for Europe and the USA) :
 pihole -w level3.ssl.blizzard.com eu.cdn.blizzard.com level3.blizzard.com eu.api.blizzard.com us.cdn.blizzard.com us.api.blizzard.com
 
-Google Services (Google Maps, Google photos, location, Android notifications, Chrome) :
+Google Services :
 pihole -w streetviewpixels-pa.googleapis.com photos.googleapis.com photosdata-pa.googleapis.com userlocation.googleapis.com voilatile-pa.googleapis.com firebaseinstallations.googleapis.com growth-pa.googleapis.com redirector.gvt1.com phonedeviceverification-pa.googleapis.com update.googleapis.com gmscompliance-pa.googleapis.com jnn-pa.googleapis.com android-context-data.googleapis.com anchor.fm geller-pa.googleapis.com federatedml-pa.googleapis.com voledevice-pa.googleapis.com infinitedata-pa.googleapis.com nearbysharing-pa.googleapis.com cryptauthdevicesync.googleapis.com deviceintegritytokens-pa.googleapis.com content-autofill.googleapis.com cdn.ampproject.org cryptauthenrollment.googleapis.com ajax.googleapis.com fonts.gstatic.com news.google.com signaler-pa.clients6.google.com gmail.com translate.google.com geomobileservices-pa.googleapis.com www.googletagmanager.com play-fe.googleapis.com finance-pa.googleapis.com android.googleapis.com safebrowsing.googleapis.com fitbitvestibuleshim-pa.googleapis.com securetoken.googleapis.com playstoregatewayadapter-pa.googleapis.com
 
 Apple/iPhone services (for proper Apple and iPhone functionality, might contain trackers but you can disable most of it in your iPhone settings) :
