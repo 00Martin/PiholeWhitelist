@@ -15,50 +15,17 @@ pihole -w id.sonyentertainmentnetwork.com aem.playstation.com.ssl.d1.sc.omtrdc.n
 
 Here's a detailed version of all the domains from above, separed by subject.
 
-More Playstation/Sony domains :
-pihole -w id.sonyentertainmentnetwork.com aem.playstation.com.ssl.d1.sc.omtrdc.net
-
-Xbox :
-pihole -w g.live.com clientconfig.passport.net v20.events.data.microsoft.com watson.telemetry.microsoft.com web.vortex.data.microsoft.com v10.events.data.microsoft.com client-s.gateway.messenger.live.com arc.msn.com xbox.ipv6.microsoft.com device.auth.xboxlive.com www.msftncsi.com title.mgt.xboxlive.com xsts.auth.xboxlive.com title.auth.xboxlive.com ctldl.windowsupdate.com attestation.xboxlive.com xboxexperiencesprod.experimentation.xboxlive.com xflight.xboxlive.com cert.mgt.xboxlive.com xkms.xboxlive.com def-vef.xboxlive.com notify.xboxlive.com help.ui.xboxlive.com licensing.xboxlive.com eds.xboxlive.com www.xboxlive.com settings-win.data.microsoft.com www.xbox.com images-eds-ssl.xboxlive.com dlassets-ssl.xboxlive.com privacy.xboxlive.com titlehub.xboxlive.com clubhub-public.xboxlive.com beige.xboxservices.com gaminglppc.azurefd.net xnotify.xboxlive.com xhome.gssv-play-prod.xboxlive.com userpresence.xboxlive.com www.xboxab.com
-
-Teams (Complete for Switzerland, uncomplete for Europe, does not contain enough domains to be usable in the USA or rest of the world) :
-pihole -w ch.ng.msg.teams.microsoft.com eu-teams.events.data.microsoft.com teams.microsoft.com eu-mobile.events.data.microsoft.com teams.events.data.microsoft.com ic3.events.data.microsoft.com
-
-Whatsapp (for iOS and Android) :
-pihole -w mmg.whatsapp.net pps.whatsapp.net v.whatsapp.net g.whatsapp.net e3.whatsapp.net media.fqls2-1.fna.whatsapp.net e7.whatsapp.net chat.cdn.whatsapp.net faq.whatsapp.com mmx-ds.cdn.whatsapp.net dit.whatsapp.net media-zrh1-1.cdn.whatsapp.net media-lis1-1.cdn.whatsapp.net www.whatsapp.com media-mxp1-1.cdn.whatsapp.net web.whatsapp.com
-
-Spotify :
-pihole -w dealer.spotify.com api-partner.spotify.com upgrade.scdn.co clienttoken.spotify.com apresolve.spotify.com spclient.wg.spotify.com www.spotify.com login5.spotify.com api-tv.spotify.com accounts.spotify.com api.spotify.com open.spotify.com audio-ak-spotify-com.akamaized.net
-
-Outlook (hotmail) :
-pihole -w m.hotmail.com login.microsoftonline.com autodetect.outlookmobile.com apis.live.net acctcdn.msauth.net logincdn.msauth.net
-
-News :
-pihole -w wired.com www.wired.com www.lifewire.com www.theverge.com m.leparisien.fr www.leparisien.fr www.computerworld.com chtbl.com myaccount.nytimes.com turnip.cdn.turner.com
-
-Blizzard Activision (Battle.net, for Europe and the USA) :
-pihole -w level3.ssl.blizzard.com eu.cdn.blizzard.com level3.blizzard.com eu.api.blizzard.com us.cdn.blizzard.com us.api.blizzard.com
-
 Google Services :
 pihole -w streetviewpixels-pa.googleapis.com photos.googleapis.com photosdata-pa.googleapis.com userlocation.googleapis.com voilatile-pa.googleapis.com firebaseinstallations.googleapis.com growth-pa.googleapis.com redirector.gvt1.com phonedeviceverification-pa.googleapis.com update.googleapis.com gmscompliance-pa.googleapis.com jnn-pa.googleapis.com android-context-data.googleapis.com anchor.fm geller-pa.googleapis.com federatedml-pa.googleapis.com voledevice-pa.googleapis.com infinitedata-pa.googleapis.com nearbysharing-pa.googleapis.com cryptauthdevicesync.googleapis.com deviceintegritytokens-pa.googleapis.com content-autofill.googleapis.com cdn.ampproject.org cryptauthenrollment.googleapis.com ajax.googleapis.com fonts.gstatic.com news.google.com signaler-pa.clients6.google.com gmail.com translate.google.com geomobileservices-pa.googleapis.com www.googletagmanager.com play-fe.googleapis.com finance-pa.googleapis.com android.googleapis.com safebrowsing.googleapis.com fitbitvestibuleshim-pa.googleapis.com securetoken.googleapis.com playstoregatewayadapter-pa.googleapis.com firebaseremoteconfig.googleapis.com
 
 Apple/iPhone services (for proper Apple and iPhone functionality, might contain trackers but you can disable most of it in your iPhone settings) :
 pihole -w xp.apple.com gs-loc.apple.com init.push.apple.com init.ess.apple.com gsa.apple.com 33-courier.push.apple.com 48-courier.push.apple.com smp-device-content.apple.com api-glb-aeuc1a.smoot.apple.com iadsdk.apple.com cf.iadsdk.apple.com profile.ess.apple.com comm-main.ess.apple.com comm-cohort.ess.apple.com init.push-apple.com.akadns.net identity.ess.apple.com lcdn-locator.apple.com cstat.cdn-apple.com api.smoot.apple.com aidc.apple.com static.ess.apple.com 15-courier.push.apple.com pds-init.ess.apple.com pds.ess.apple.com gateway.icloud.com mesu.apple.com init.itunes.apple.com bag.itunes.apple.com configuration.ls.apple.com ocsp2.apple.com apps.apple.com mesu-cdn.origin-apple.com.akadns.net s.mzstatic.com is2-ssl.mzstatic.com is4-ssl.mzstatic.com is3-ssl.mzstatic.com is5-ssl.mzstatic.com is1-ssl.mzstatic.com configuration.apple.com humb.apple.com gateway.fe.apple-dns.net e673.dsce9.akamaiedge.net ocsp2-lb.apple.com.akadns.net ocsp2.g.aaplimg.com gsp-ssl.ls.apple.com gspe19-ssl.ls.apple.com time.euro.apple.com
 
-Loro Loterie Romande (Lottery and gambling for Western Switzerland) :
-pihole -w www.loro.ch www.swisslos.ch jeux.loro.ch lorofrontendprodb2c.b2clogin.com
+Whatsapp (for iOS and Android) :
+pihole -w mmg.whatsapp.net pps.whatsapp.net v.whatsapp.net g.whatsapp.net e3.whatsapp.net media.fqls2-1.fna.whatsapp.net e7.whatsapp.net chat.cdn.whatsapp.net faq.whatsapp.com mmx-ds.cdn.whatsapp.net dit.whatsapp.net media-zrh1-1.cdn.whatsapp.net media-lis1-1.cdn.whatsapp.net www.whatsapp.com media-mxp1-1.cdn.whatsapp.net web.whatsapp.com
 
-Stackoverflow :
-pihole -w stackoverflow.com
-
-Tiktok (bare minimum to be usable) :
-pihole -w v19.tiktokcdn.com v77.tiktokcdn.com p19-security-sg.ibyteimg.com p16-security-sg.ibyteimg.com p16-sign-sg.tiktokcdn.com
-
-Dailymotion :
-pihole -w www.dailymotion.com static1.dmcdn.net vendorlist.dmcdn.net graphql.api.dailymotion.com
-
-Discord :
-pihole -w click.discord.com
+Spotify :
+pihole -w dealer.spotify.com api-partner.spotify.com upgrade.scdn.co clienttoken.spotify.com apresolve.spotify.com spclient.wg.spotify.com www.spotify.com login5.spotify.com api-tv.spotify.com accounts.spotify.com api.spotify.com open.spotify.com audio-ak-spotify-com.akamaized.net
 
 Brave Browser :
 pihole -w grant.rewards.brave.com api.rewards.brave.com rewards.brave.com variations.brave.com sync-v2.brave.com static.ads.brave.com go-updater.brave.com geo.ads.brave.com componentupdater.brave.com brave-core-ext.s3.brave.com mywallet.ads.brave.com brave-today-cdn.brave.com pcdn.brave.com anonymous.ads.brave.com star-randsrv.bsg.brave.com
@@ -75,11 +42,26 @@ pihole -w fe2cr.update.microsoft.com fe3cr.delivery.mp.microsoft.com slscr.updat
 Windows Store :
 pihole -w storeedgefd.dsx.mp.microsoft.com paymentinstruments.mp.microsoft.com displaycatalog.mp.microsoft.com store-images.s-microsoft.com licensing.mp.microsoft.com dl.delivery.mp.microsoft.com tlu.dl.delivery.mp.microsoft.com purchase.mp.microsoft.com store-images.microsoft.com
 
+Outlook (hotmail) :
+pihole -w m.hotmail.com login.microsoftonline.com autodetect.outlookmobile.com apis.live.net acctcdn.msauth.net logincdn.msauth.net
+
 Office 365 :
 pihole -w r4.res.office365.com res-h3.public.cdn.office.net outlook.office365.com outlook.office.com
 
+Skype :
+pihole -w web.skype.com uhf.microsoft.com config.edge.skype.com csp.microsoft.com a.login.skype.com api.asm.skype.com api.aps.skype.com msgsearch.skype.com a.config.skype.com options.skype.com people.skype.com api.promotions.skype.com consumer.entitlement.skype.com inviteconnector.skype.com api3.cc.skype.com api.flightproxy.skype.com apps.skypeassets.com e1855.b.akamaiedge.net edge.skype.com endpoint920510.azureedge.net
+
+Teams (Complete for Switzerland, uncomplete for Europe, does not contain enough domains to be usable in the USA or rest of the world) :
+pihole -w ch.ng.msg.teams.microsoft.com eu-teams.events.data.microsoft.com teams.microsoft.com eu-mobile.events.data.microsoft.com teams.events.data.microsoft.com ic3.events.data.microsoft.com
+
 Yahoo :
 pihole -w finance.yahoo.com
+
+More Playstation/Sony domains :
+pihole -w id.sonyentertainmentnetwork.com aem.playstation.com.ssl.d1.sc.omtrdc.net
+
+Xbox :
+pihole -w g.live.com clientconfig.passport.net v20.events.data.microsoft.com watson.telemetry.microsoft.com web.vortex.data.microsoft.com v10.events.data.microsoft.com client-s.gateway.messenger.live.com arc.msn.com xbox.ipv6.microsoft.com device.auth.xboxlive.com www.msftncsi.com title.mgt.xboxlive.com xsts.auth.xboxlive.com title.auth.xboxlive.com ctldl.windowsupdate.com attestation.xboxlive.com xboxexperiencesprod.experimentation.xboxlive.com xflight.xboxlive.com cert.mgt.xboxlive.com xkms.xboxlive.com def-vef.xboxlive.com notify.xboxlive.com help.ui.xboxlive.com licensing.xboxlive.com eds.xboxlive.com www.xboxlive.com settings-win.data.microsoft.com www.xbox.com images-eds-ssl.xboxlive.com dlassets-ssl.xboxlive.com privacy.xboxlive.com titlehub.xboxlive.com clubhub-public.xboxlive.com beige.xboxservices.com gaminglppc.azurefd.net xnotify.xboxlive.com xhome.gssv-play-prod.xboxlive.com userpresence.xboxlive.com www.xboxab.com
 
 Minecraft/Mojang (contains a lot of domain names but all are needed to be able to play online) :
 pihole -w launcher.mojang.com launchermeta.mojang.com piston-meta.mojang.com piston-data.mojang.com launchercontent.mojang.com api.minecraftservices.com client.discovery.minecraft-services.net redstone-launcher.mojang.com authorization.franchise.minecraft-services.net libraries.minecraft.net hopper.minecraft.net resources.download.minecraft.net authorization-secondary.franchise.minecraft-services.net sessionserver.mojang.com textures.minecraft.net
@@ -90,14 +72,8 @@ pihole -w launcher-public-service-prod06.ol.epicgames.com account-public-service
 EA Games :
 pihole -w accounts.ea.com
 
-Signal messaging :
-pihole -w storage.signal.org svr2.signal.org support.signal.org
-
-Logitech :
-pihole -w theme.zdassets.com stackpath.bootstrapcdn.com p23.zdassets.com
-
-Skype :
-pihole -w web.skype.com uhf.microsoft.com config.edge.skype.com csp.microsoft.com a.login.skype.com api.asm.skype.com api.aps.skype.com msgsearch.skype.com a.config.skype.com options.skype.com people.skype.com api.promotions.skype.com consumer.entitlement.skype.com inviteconnector.skype.com api3.cc.skype.com api.flightproxy.skype.com apps.skypeassets.com e1855.b.akamaiedge.net edge.skype.com endpoint920510.azureedge.net
+Blizzard Activision (Battle.net, for Europe and the USA) :
+pihole -w level3.ssl.blizzard.com eu.cdn.blizzard.com level3.blizzard.com eu.api.blizzard.com us.cdn.blizzard.com us.api.blizzard.com
 
 Twitter :
 pihole -w t.co video.twimg.com
@@ -111,11 +87,35 @@ pihole -w d35aaqx5ub95lt.cloudfront.net
 Netflix :
 pihole -w android-appboot.netflix.com
 
-Digital certificates verification :
-pihole -w ocsp.digicert.com ocsp.edge.digicert.com fp2e7a.wpc.phicdn.net ocsp.verisign.com
+Signal messaging :
+pihole -w storage.signal.org svr2.signal.org support.signal.org
+
+Logitech :
+pihole -w theme.zdassets.com stackpath.bootstrapcdn.com p23.zdassets.com
+
+News :
+pihole -w wired.com www.wired.com www.lifewire.com www.theverge.com m.leparisien.fr www.leparisien.fr www.computerworld.com chtbl.com myaccount.nytimes.com turnip.cdn.turner.com
+
+Stackoverflow :
+pihole -w stackoverflow.com
+
+Tiktok (bare minimum to be usable) :
+pihole -w v19.tiktokcdn.com v77.tiktokcdn.com p19-security-sg.ibyteimg.com p16-security-sg.ibyteimg.com p16-sign-sg.tiktokcdn.com
+
+Dailymotion :
+pihole -w www.dailymotion.com static1.dmcdn.net vendorlist.dmcdn.net graphql.api.dailymotion.com
+
+Discord :
+pihole -w click.discord.com
+
+Loro Loterie Romande (Lottery and gambling for Western Switzerland) :
+pihole -w www.loro.ch www.swisslos.ch jeux.loro.ch lorofrontendprodb2c.b2clogin.com
 
 Images & wallpapers :
 pihole -w js.media-lab.ai ibb.co i.ibb.co wallpapers.com wallpapercave.com
+
+Digital certificates verification :
+pihole -w ocsp.digicert.com ocsp.edge.digicert.com fp2e7a.wpc.phicdn.net ocsp.verisign.com
 
 Miscellaneous Gaming :
 pihole -w id.supercell.com cdn.id.supercell.com skylines.paradoxwikis.com
