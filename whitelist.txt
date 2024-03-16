@@ -139,7 +139,7 @@ Images & wallpapers :
 pihole -w js.media-lab.ai ibb.co i.ibb.co wallpapers.com wallpapercave.com
 
 Digital certificates verification :
-pihole -w ocsp.digicert.com ocsp.edge.digicert.com fp2e7a.wpc.phicdn.net ocsp.verisign.com
+pihole -w ocsp.digicert.com ocsp.edge.digicert.com ocsp.verisign.com
 
 Miscellaneous Gaming :
 pihole -w id.supercell.com cdn.id.supercell.com skylines.paradoxwikis.com api.paradox-interactive.com
@@ -148,4 +148,4 @@ Miscellaneous Finances :
 pihole -w coinmarketcap.com www.investopedia.com www.thebalancemoney.com images.prismic.io
 
 Miscellaneous :
-pihole -w www.returnyoutubedislike.com dictionary.cambridge.org ota.lokalise.co www.att.com api.fotmob.com blog.ecosia.org api.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com www.jio.com jio.com cdn.optimizely.com status.lineageos.org www.phaver.com ciscobinary.openh264.org detectportal.firefox.com creativecommons.org gleam.io unpkg.com archive.org zug.sbb.ch
+pihole -w www.returnyoutubedislike.com dictionary.cambridge.org ota.lokalise.co www.att.com api.fotmob.com blog.ecosia.org api.ecosia.org www.webmd.com assets.cdn.ifixit.com minerva.ifixit.com geo.captcha-delivery.com www.jio.com jio.com cdn.optimizely.com status.lineageos.org www.phaver.com ciscobinary.openh264.org detectportal.firefox.com creativecommons.org gleam.io unpkg.com archive.org zug.sbb.ch fp2e7a.wpc.phicdn.net
