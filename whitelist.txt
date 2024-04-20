@@ -22,7 +22,7 @@ YouTube :
 pihole -w s.youtube.com
 
 Apple/iPhone services (for proper Apple and iPhone functionality, might contain trackers but you can disable most of it in your iPhone settings) :
-pihole -w xp.apple.com gs-loc.apple.com init.push.apple.com init.ess.apple.com gsa.apple.com 33-courier.push.apple.com 48-courier.push.apple.com smp-device-content.apple.com api-glb-aeuc1a.smoot.apple.com profile.ess.apple.com comm-main.ess.apple.com comm-cohort.ess.apple.com init.push-apple.com.akadns.net identity.ess.apple.com lcdn-locator.apple.com cstat.cdn-apple.com api.smoot.apple.com aidc.apple.com static.ess.apple.com 15-courier.push.apple.com pds-init.ess.apple.com pds.ess.apple.com gateway.icloud.com mesu.apple.com init.itunes.apple.com bag.itunes.apple.com configuration.ls.apple.com ocsp2.apple.com apps.apple.com mesu-cdn.origin-apple.com.akadns.net s.mzstatic.com is2-ssl.mzstatic.com is4-ssl.mzstatic.com is3-ssl.mzstatic.com is5-ssl.mzstatic.com is1-ssl.mzstatic.com configuration.apple.com humb.apple.com gateway.fe.apple-dns.net e673.dsce9.akamaiedge.net ocsp2-lb.apple.com.akadns.net ocsp2.g.aaplimg.com gsp-ssl.ls.apple.com gspe19-ssl.ls.apple.com time.euro.apple.com apple-finance.query.yahoo.com mask.icloud.com mask-h2.icloud.com
+pihole -w xp.apple.com gs-loc.apple.com init.push.apple.com init.ess.apple.com gsa.apple.com 33-courier.push.apple.com 48-courier.push.apple.com smp-device-content.apple.com api-glb-aeuc1a.smoot.apple.com profile.ess.apple.com comm-main.ess.apple.com comm-cohort.ess.apple.com init.push-apple.com.akadns.net identity.ess.apple.com lcdn-locator.apple.com cstat.cdn-apple.com api.smoot.apple.com aidc.apple.com static.ess.apple.com 15-courier.push.apple.com pds-init.ess.apple.com pds.ess.apple.com gateway.icloud.com mesu.apple.com init.itunes.apple.com bag.itunes.apple.com configuration.ls.apple.com apps.apple.com mesu-cdn.origin-apple.com.akadns.net s.mzstatic.com is2-ssl.mzstatic.com is4-ssl.mzstatic.com is3-ssl.mzstatic.com is5-ssl.mzstatic.com is1-ssl.mzstatic.com configuration.apple.com humb.apple.com gateway.fe.apple-dns.net e673.dsce9.akamaiedge.net ocsp2-lb.apple.com.akadns.net ocsp2.g.aaplimg.com gsp-ssl.ls.apple.com gspe19-ssl.ls.apple.com time.euro.apple.com apple-finance.query.yahoo.com mask.icloud.com mask-h2.icloud.com
 
 Whatsapp (for iOS and Android) :
 pihole -w mmg.whatsapp.net pps.whatsapp.net v.whatsapp.net g.whatsapp.net e3.whatsapp.net media.fqls2-1.fna.whatsapp.net e7.whatsapp.net chat.cdn.whatsapp.net faq.whatsapp.com mmx-ds.cdn.whatsapp.net dit.whatsapp.net media-zrh1-1.cdn.whatsapp.net media-lis1-1.cdn.whatsapp.net www.whatsapp.com media-mxp1-1.cdn.whatsapp.net web.whatsapp.com whatsapp.com static.whatsapp.net
@@ -142,7 +142,7 @@ Images & wallpapers :
 pihole -w js.media-lab.ai ibb.co i.ibb.co wallpapers.com wallpapercave.com
 
 Digital certificates verification :
-pihole -w ocsp.digicert.com ocsp.edge.digicert.com ocsp.verisign.com valid.apple.com
+pihole -w ocsp.digicert.com ocsp.edge.digicert.com ocsp.verisign.com ocsp2.apple.com valid.apple.com
 
 Miscellaneous Gaming :
 pihole -w id.supercell.com cdn.id.supercell.com skylines.paradoxwikis.com api.paradox-interactive.com modscontent.paradox-interactive.com
