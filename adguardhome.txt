@@ -61,7 +61,7 @@ m.leparisien.fr
 www.leparisien.fr
 level3.ssl.blizzard.com
 eu.cdn.blizzard.com
-level3.blizzard.com 
+level3.blizzard.com
 u.api.blizzard.com
 us.cdn.blizzard.com
 us.api.blizzard.com
@@ -230,7 +230,8 @@ cdn.optimizely.com
 api.spotify.com
 www.computerworld.com
 status.lineageos.org
-t.co video.twimg.com
+t.co
+video.twimg.com
 fonts.gstatic.com
 d35aaqx5ub95lt.cloudfront.net
 news.google.com
@@ -295,7 +296,8 @@ ciscobinary.openh264.org
 web.whatsapp.com
 www.microsoft.com
 img-prod-cms-rt-microsoft-com.akamaized.net
-c.s-microsoft.com c.microsoft.com
+c.s-microsoft.com
+c.microsoft.com
 mem.gfx.ms
 ajax.aspnetcdn.com
 vlscppe.microsoft.com
@@ -409,7 +411,8 @@ s3.amazonaws.com
 af4a.adj.st
 url3138.geoguessr.com
 checkout.stripe.com
-js.stripe.com ko-fi.com
+js.stripe.com
+ko-fi.com
 js.datadome.co
 api-js.datadome.co
 cdn.checkout.com
