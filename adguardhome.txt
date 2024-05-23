@@ -6,7 +6,8 @@ v20.events.data.microsoft.com
 web.vortex.data.microsoft.com
 v10.events.data.microsoft.com
 client-s.gateway.messenger.live.com
-arc.msn.com xbox.ipv6.microsoft.com
+arc.msn.com
+xbox.ipv6.microsoft.com
 device.auth.xboxlive.com
 www.msftncsi.com
 title.mgt.xboxlive.com
@@ -52,7 +53,8 @@ upgrade.scdn.co
 m.hotmail.com
 login.microsoftonline.com
 autodetect.outlookmobile.com
-wired.com www.wired.com
+wired.com
+www.wired.com
 www.lifewire.com
 www.theverge.com
 m.leparisien.fr
@@ -300,8 +302,10 @@ vlscppe.microsoft.com
 accounts.ea.com
 myaccount.nytimes.com
 turnip.cdn.turner.com
-bing.com www.bing.com
-msn.com www.msn.com
+bing.com
+www.bing.com
+msn.com
+www.msn.com
 assets.msn.com
 img-s-msn-com.akamaized.net
 firebaseremoteconfig.googleapis.com
@@ -342,7 +346,8 @@ userpresence.xboxlive.com
 www.xboxab.com
 store-images.microsoft.com
 prod-azurecdn-akamai-iris.azureedge.net
-ocsp.verisign.com api.msn.com
+ocsp.verisign.com
+api.msn.com
 account.live.com
 acctcdn.msftauth.net
 download.windowsupdate.com
@@ -354,7 +359,8 @@ assets-www.xbox.com
 prod.cloud.rockstargames.com
 statsproxy-public-service-live.ol.epicgames.com
 static-assets-prod.s3.amazonaws.com
-learn.microsoft.com cdn.auth0.com
+learn.microsoft.com
+cdn.auth0.com
 geo.cardinalcommerce.com
 production-cmp.isgprivacy.cbsi.com
 link.tv.cbs.com
