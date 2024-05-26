@@ -417,3 +417,4 @@ js.datadome.co
 api-js.datadome.co
 cdn.checkout.com
 embeddedassistant.googleapis.com
+itch.io
