@@ -423,3 +423,4 @@ canvaz.scdn.co
 r.sib.etraveligroup.com
 scontent.whatsapp.net
 c.apple.com
+samizdat-graphql.nytimes.com
