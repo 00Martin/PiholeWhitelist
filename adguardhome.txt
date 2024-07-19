@@ -427,3 +427,6 @@ samizdat-graphql.nytimes.com
 mobile-data.onetrust.io
 cc.loginfra.com
 loro.ch
+en.swissquote.com
+swissquote.com
+www.swissquote.com
