@@ -435,3 +435,9 @@ ip.me
 urbandictionary.com
 www.urbandictionary.com
 ab.chatgpt.com
+library.swissquote.com
+findmydevice-pa.googleapis.com
+supl.google.com
+www-bbc-com.cdn.ampproject.org
+amp-cnn-com.cdn.ampproject.org
+app-static.voteinfo-app.ch
