@@ -441,3 +441,7 @@ supl.google.com
 www-bbc-com.cdn.ampproject.org
 amp-cnn-com.cdn.ampproject.org
 app-static.voteinfo-app.ch
+keepersecurity.com
+www.keepersecurity.com
+activity.windows.com
+amazon.fr
