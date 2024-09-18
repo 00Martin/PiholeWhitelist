@@ -445,3 +445,6 @@ keepersecurity.com
 www.keepersecurity.com
 activity.windows.com
 amazon.fr
+t.emailing.swissquote.com
+click.official.infomaniak.com
+prodregistryv2.org
