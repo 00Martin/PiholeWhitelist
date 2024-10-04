@@ -449,3 +449,4 @@ t.emailing.swissquote.com
 click.official.infomaniak.com
 prodregistryv2.org
 kvinit-prod.api.kochava.com
+scontent.xx.fbcdn.net
