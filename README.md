@@ -1,4 +1,7 @@
+# THIS PROJECT WILL NOW GET UPDATED ON MY CODEBERG, YOU CAN FIND MY CODEBERG [HERE](https://codeberg.org/mrtn).
+
 # Pi-hole Whitelist
+
 This repository contains a list of domains you might want to allow after adding your block lists.
 The domains are already formatted into a command, ready to be applied to your Pi-hole.
 
